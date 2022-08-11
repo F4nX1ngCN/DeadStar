@@ -1,0 +1,5 @@
+{
+  "require": {
+    "pocketmine/pocketmine-mp": "^4.7.0"
+  }
+}

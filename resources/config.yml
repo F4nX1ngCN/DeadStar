@@ -1,0 +1,11 @@
+# DeadStar AntiCheat Config file
+# Author: Smile2Cheat
+# This is alerts and kick prerix, you can use § here
+AntiCheat.prefix: "§7[§b§oDeadStar§r§7]"
+# How to punish players ( ban / kick ) **Useless rn! We will support ban in the future**
+Punishment.way: kick
+# How many vls will punish players
+Punishment.vl: 10
+# Type your Discord webhook here
+webhook.enable: false
+webhook.url: ""
