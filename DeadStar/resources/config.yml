@@ -1,0 +1,8 @@
+# Author: Smile2Cheat
+# This is alerts and kick prerix, you can use § here
+AntiCheat.prefix: "§7[§b§oDeadStar§r§7]"
+# How many vls will kick players
+Punishment.vl: 10
+# Type your Discord webhook here
+webhook.enable: false
+webhook.url: ""
